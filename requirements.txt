@@ -1,5 +1,6 @@
+streamlit
 pandas
 plotly
 twilio
 streamlit-geolocation
-openpyxl
+altair
